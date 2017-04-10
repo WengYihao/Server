@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 10 09:22:01 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SharedPlaces_fat.jar
+manifest.mergeall=true
+manifest.mainclass=cn.yitu.test.Test
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
